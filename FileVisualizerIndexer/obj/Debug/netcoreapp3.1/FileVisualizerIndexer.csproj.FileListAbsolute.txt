@@ -1,0 +1,9 @@
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\bin\Debug\netcoreapp3.1\FileVisualizerIndexer.deps.json
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\bin\Debug\netcoreapp3.1\FileVisualizerIndexer.dll
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\bin\Debug\netcoreapp3.1\FileVisualizerIndexer.pdb
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.csprojAssemblyReference.cache
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.AssemblyInfoInputs.cache
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.AssemblyInfo.cs
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.csproj.CoreCompileInputs.cache
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.dll
+C:\gear\git\file-visualizer-indexer\file-visualizer-indexer\FileVisualizerIndexer\obj\Debug\netcoreapp3.1\FileVisualizerIndexer.pdb

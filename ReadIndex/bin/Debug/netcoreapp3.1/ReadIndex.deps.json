@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ReadIndex/1.0.0": {
+        "dependencies": {
+          "FileVisualizerIndexer": "1.0.0"
+        },
+        "runtime": {
+          "ReadIndex.dll": {}
+        }
+      },
+      "FileVisualizerIndexer/1.0.0": {
+        "runtime": {
+          "FileVisualizerIndexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadIndex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileVisualizerIndexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
